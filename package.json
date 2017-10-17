@@ -1,0 +1,9 @@
+{
+  "name": "read-currencies",
+  "version": "0.0.0",
+  "description": "ReadCurrencies",
+  "main": "app.js",
+  "author": {
+    "name": "stasm"
+  }
+}
